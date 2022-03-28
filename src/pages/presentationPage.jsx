@@ -44,7 +44,7 @@ const presetationPage = () => {
               <a>
                 Follow Me
                 <Image
-                  src={Github}
+                  src='images/GitHub.svg'
                   alt="Git Hub Icon"
                   width={100}
                   height={100}
