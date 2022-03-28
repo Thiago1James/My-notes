@@ -35,7 +35,11 @@ const presetationPage = () => {
 
         <div className="notesDrawing">
           <div className="Drawin1"></div>
+          <div className="Drawin4"></div>
+
           <div className="Drawin3"></div>
+          <div className="Drawin5"></div>
+
           <div className="Drawin2">
             <Link href='https://github.com/Thiago1James'>
               <a>
@@ -52,6 +56,7 @@ const presetationPage = () => {
               </a>
             </Link>
           </div>
+
 
         </div>
 

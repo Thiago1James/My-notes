@@ -5,7 +5,8 @@ import styled from "styled-components";
 
 export const Circle = styled.div`
 
-    
+    position: absolute;
+    right: 50px;
     width: 60px;
     height: 60px;
   
