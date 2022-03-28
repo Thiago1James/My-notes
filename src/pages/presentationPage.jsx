@@ -4,6 +4,7 @@ import Head from "next/head";
 import { NextPageIcon } from "../components/NextPageIcon";
 import Link from "next/link"
 import Image from "next/image"
+import Github from '../../public/images/GitHub.svg'
 
 const presetationPage = () => {
   return (
@@ -44,7 +45,7 @@ const presetationPage = () => {
               <a>
                 Follow Me
                 <Image
-                  src="/images/GitHub.svg"
+                  src={Github}
                   alt="Git Hub Icon"
                   width={100}
                   height={100}

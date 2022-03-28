@@ -1,6 +1,7 @@
 import { Circle } from "./style"
 import Link from "next/link"
 import Image from "next/image"
+import NextPage from '../../../public/images/PlayIcon.svg'
 
 
 
@@ -14,7 +15,7 @@ export const NextPageIcon = (props) => {
                     <a>
                         <div className="image">
                             <Image
-                                src="/images/PlayIcon.svg"
+                                src={NextPage}
                                 alt="Play icon"
                                 className='Play'
                                 width={100}
