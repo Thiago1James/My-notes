@@ -13,11 +13,10 @@ const presetationPage = () => {
         <Head>
           <title>My Notes</title>
           <meta name="description" content="Página Inicial- My Notes" />
-          <meta http-equiv="Content-Language" content="pt-br"></meta>
           <link rel="icon" href="images/Logo.svg" />
-          <link rel="preconnect" href="https://fonts.googleapis.com" />
-          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-          <link href="https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap" rel="stylesheet" />
+         
+          <meta name="theme-color" content="#FAE688" />
+
         </Head>
 
         <header>

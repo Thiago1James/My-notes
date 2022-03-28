@@ -9,11 +9,11 @@ export default function Home() {
       <Head>
         <title>My Notes</title>
         <meta name="description" content="Página Inicial- My Notes" />
+        <meta name="theme-color" content="#FAE688" />
+
         <link rel="icon" href="images/Logo.svg" />
-        <style>
-          @import
-          url('https://fonts.googleapis.com/css2?family=Tourney:ital,wght@1,100&display=swap')
-        </style>
+
+
       </Head>
 
       <main>
@@ -29,10 +29,12 @@ export default function Home() {
         ))}
 
         <div className="containerBtn">
-        <Link href="/presentationPage">
-        <button>Get Started</button>
-        </Link>
-       
+          <Link href="/presentationPage">
+            <a >
+              <button>Get Started</button>
+            </a>
+          </Link>
+
         </div>
       </main>
     </Body>
