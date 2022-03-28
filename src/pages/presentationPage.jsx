@@ -4,7 +4,6 @@ import Head from "next/head";
 import { NextPageIcon } from "../components/NextPageIcon";
 import Link from "next/link"
 import Image from "next/image"
-import Github from '../../public/images/GitHub.svg'
 
 const presetationPage = () => {
   return (
