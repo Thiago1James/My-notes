@@ -41,10 +41,9 @@ const presetationPage = () => {
 
           <div className="Drawin2">
             <Link href='https://github.com/Thiago1James'>
-              <a>
-                Follow Me
+             
                 <Image
-                  src='images/GitHub.svg'
+                  src='/Images/GitHub.svg'
                   alt="Git Hub Icon"
                   width={100}
                   height={100}
@@ -52,7 +51,7 @@ const presetationPage = () => {
                   quality={100}
                 />
 
-              </a>
+          
             </Link>
           </div>
 

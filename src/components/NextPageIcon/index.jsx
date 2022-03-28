@@ -14,7 +14,7 @@ export const NextPageIcon = (props) => {
                     <a>
                         <div className="image">
                             <Image
-                                src="/images/PlayIcon.svg"
+                                src="/Images/PlayIcon.svg"
                                 alt="Play icon"
                                 className='Play'
                                 width={100}
